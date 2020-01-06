@@ -1,0 +1,23 @@
+html, body
+{
+    margin: 0px; padding: 0px
+}
+
+.main-page {
+	text-align: center;
+	font-family: arial;
+	font-size: 20px;
+	background-color: orange;
+	margin: 0;
+	padding: 0;
+}
+
+.bottom-page {
+	display: flex;
+	justify-content: space-between;
+	background-color: gray;
+}
+
+.bottom-page__container {
+	margin: 100px;
+}
